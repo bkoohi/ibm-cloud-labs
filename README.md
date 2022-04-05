@@ -6,5 +6,5 @@ A series of labs with instructions in IBM Cloud
 |------------|-----------------|----------------------------------------------------------------|
 |     1      | Basic container |https://developer.ibm.com/learningpaths/get-started-containers/benefits-of-moving-to-containers/
 |     2      | Node JS in IKS  |https://github.com/bkoohi/webapp-iks-lab/blob/main/README.md    |                                                         
-|    2       | Node JS in IKS  | 
+|     3      | HTTP app in IKS | 
 |            |                 |                                                                |
