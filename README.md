@@ -1,5 +1,5 @@
 # ibm-cloud-labs
-A series of labs with instructions in IBM Cloud
+A series of hands-on labs with instructions in IBM Cloud for education and training purposes.
 
 
 | Lab number | Lab Name        | Lab link                                                       |
