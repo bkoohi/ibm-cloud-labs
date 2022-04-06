@@ -1,5 +1,5 @@
 # ibm-cloud-labs
-Hands-on LABs are easiest and fastest way to gain real experience with different cloud technologies in IBM Cloud. The purpose of these labs are to provide a step by step instructions for specific deployment use cases. 
+Hands-on LABs are easiest and fastest way to gain real experience with different cloud technologies in IBM Cloud. The purpose of these labs are to provide a step by step instructions for specific deployment use cases. Each of these labs may take up to 30 min to complete.
 
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
