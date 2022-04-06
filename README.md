@@ -5,8 +5,11 @@ A series of hands-on labs with instructions in IBM Cloud for education and train
 | Lab number | Description                                                                      | Link |
 |------------|----------------------------------------------------------------------------------|------|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/|                            
-|     2      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab |        |     3      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab |
-|------------|----------------------------------------------------------------------------------|------|
+
+|     2      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
+
+|     3      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab |
+
 ## 2 Hub-Spoken VPCs with IKS apps, Palo Alto Firewalls
 | Lab number | Lab Name           | Lab link                                                       |
 |------------|--------------------|----------------------------------------------------------------|
