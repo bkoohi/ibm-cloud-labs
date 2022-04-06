@@ -4,9 +4,8 @@ A series of hands-on labs with instructions in IBM Cloud for education and train
 ## 1 Single VPC with IKS apps
 | Lab number | Description                                                                      |
 |------------|----------------------------------------------------------------------------------|
-|     1      | What is a container and why container:https://developer.ibm.com/learningpaths/get-started-containers/                                     
-|     2      | Node JS in IKS  https://github.com/bkoohi/nodejs-webapp-iks-lab                  |                                                         
-|     3      | HTTP app in IKS https://github.com/bkoohi/http-webapp-iks-lab                    |
+|     1      | What is a container, why container :https://developer.ibm.com/learningpaths/get-started-containers/                                     
+|     2      | Deploy a simple Node JS application in IKS cluster in IBM Cloud:  https://github.com/bkoohi/nodejs-webapp-iks-lab                  |        |     3      | HTTP app in IKS https://github.com/bkoohi/http-webapp-iks-lab                    |
 |            |                                                                                  |
 
 ## 2 Hub-Spoken VPCs with IKS apps, Palo Alto Firewalls
