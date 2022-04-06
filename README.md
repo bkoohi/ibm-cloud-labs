@@ -12,5 +12,5 @@ A series of hands-on labs with instructions in IBM Cloud for education and train
 ## 2- Hub-Spoken VPCs with IKS apps, Palo Alto Firewalls
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-----------------------------|
-|     1        | Deploy a hub-spoken VPCs with an application in VSI. A pair of Palo Alto VMs deployed for application security and protection.                                                          |https://github.com/bkoohi/vpc-ha-pa-vsi-app|
+|     1        | Deploy a hub-spoken VPCs with an application in VSI. A pair of Palo Alto VMs deployed for application security and protection. Application and Palo Alto are supported by a public ALB.                                                        |https://github.com/bkoohi/vpc-ha-pa-vsi-app|
 |     2        | VPCs with IKS apps                                                             |https://github.com/bkoohi/hub-spoken-vpc-ha-pa-iks-app|
