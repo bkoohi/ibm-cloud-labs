@@ -2,6 +2,7 @@
 A series of hands-on labs with instructions in IBM Cloud for education and training purposes.
 
 ## 1- Single VPC with IKS apps
+| :           | :                                                                                     | :         |
 | :Lab number | :Lab Description                                                                      | :Lab Link |
 |------------|----------------------------------------------------------------------------------|------|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/|                            
