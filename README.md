@@ -5,7 +5,7 @@ A series of hands-on labs with instructions in IBM Cloud for education and train
 | Lab number | Description                                                                      |
 |------------|----------------------------------------------------------------------------------|
 |     1      | What is a container and why container                                            |
-|            | |https://developer.ibm.com/learningpaths/get-started-containers/                 |
+             |https://developer.ibm.com/learningpaths/get-started-containers/                 
 |     2      | Node JS in IKS  https://github.com/bkoohi/nodejs-webapp-iks-lab                  |                                                         
 |     3      | HTTP app in IKS https://github.com/bkoohi/http-webapp-iks-lab                    |
 |            |                                                                                  |
