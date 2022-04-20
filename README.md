@@ -3,8 +3,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
-|     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/
-|               
+|     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/|               
 |     2      | Deploy a basic IKS cluster                                                       | https://github.com/bkoohi/build-iks-cluster/blob/main/README.md |
 |     3      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
 |     4      | Deploy a simple http application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab|
