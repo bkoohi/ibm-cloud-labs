@@ -1,13 +1,13 @@
 # ibm-cloud-labs
 Hands-on LABs are easiest and fastest way to gain real experience with different cloud technologies in IBM Cloud. The purpose of these labs are to provide a step by step instructions for specific deployment use cases. Each of these labs may take up to 30 min to complete.
 
-## What is conainter:
+What is conainter:
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/| 
 
 
-## What is IKS:
+What is IKS:
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |     1      | Deploy a basic IKS cluster                                                       | https://github.com/bkoohi/build-iks-cluster/blob/main/README.md |
 |     2      | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
