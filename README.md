@@ -9,7 +9,6 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 |     3      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
 |     4      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
 |     5      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
-
 |     6      | Deploy a basic IKS cluster                                                       | https://github.com/bkoohi/build-iks-cluster/blob/main/README.md |
 |     7     | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
 |     8      | Deploy a simple http application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab|
