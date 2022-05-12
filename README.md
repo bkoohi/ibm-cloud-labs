@@ -4,27 +4,6 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
  
 <table>
 <tr>
-<th>Heading 1</th>
-<th>Heading 2</th>
-</tr>
-<tr>
-
-<td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td><td>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td></tr> </table>
-
-<table>
-<tr>
 <th>Heading 3</th>
 </tr>
 <tr>
