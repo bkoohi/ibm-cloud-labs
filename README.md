@@ -1,17 +1,5 @@
 # ibm-cloud-labs
 Hands-on LABs are easiest and fastest way to gain real experience with different cloud technologies in IBM Cloud. The purpose of these labs are to provide a step by step instructions for specific deployment use cases. Each of these labs may take up to 30 min to complete.
-<table>
-<tr>
-<th>Heading 2</th>
-</tr>
-<tr>
-
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-
-</td></table>
-
 
  
 <table>
@@ -19,22 +7,28 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <th>Basic Container training and labs</th>
 </tr>
 <tr>
-
-
-
 |Lab number|Lab Description|Lab Link|
 |--|--|--|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/| 
+|     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
+|     3      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
+|     4      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
 </td></table>
 
 
+<table>
+<tr>
+<th>Programming labsc labs</th>
+</tr>
+<tr>
+|Lab number|Lab Description|Lab Link|
+|--|--|--|
+|     2      | Programming Java, Python, JavaScript 101                                         | https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 |
+ </td></table>
+
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
-|     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/|    
-|     2      | Programming Java, Python, JavaScript 101                                         | https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 |
-|     3      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
-|     4      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
-|     5      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
+
 |     6      | Deploy a basic IKS cluster                                                       | https://github.com/bkoohi/build-iks-cluster/blob/main/README.md |
 |     7     | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
 |     8      | Deploy a simple http application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab|
