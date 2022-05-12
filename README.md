@@ -119,7 +119,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
   </tr>
 </table>
 
-<h2>6- IBM Cloud Power VS lab</h2>
+<h2>7- IBM Cloud Power VS lab</h2>
 <table style="width:100%">
   <tr>
     <th style="width:5%">Lab number</th>
