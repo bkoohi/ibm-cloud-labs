@@ -131,4 +131,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>Configuring an Instance of IBM Power System Virtual Server</td>
     <td>https://techzone.ibm.com/collection/configuring-an-instance-of-ibm-power-system-virtual-serverc</td>
   </tr>
+   <tr>
+    <td>2</td>
+    <td>IBM Power Systems Virtual Server (PowerVS) Networking Fundamentals</td>
+    <td>https://yourlearning.ibm.com/activity/ITS-DL06003G?planId=PLAN-0B5FDA9F39C1&sectionId=SECTION-B</td>
+  </tr>
 </table>
