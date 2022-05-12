@@ -7,6 +7,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <th>Basic Container training and labs</th>
 </tr>
 <tr>
+<td>
 |Lab number|Lab Description|Lab Link|
 |--|--|--|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/| 
@@ -21,6 +22,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <th>Programming labsc labs</th>
 </tr>
 <tr>
+<td>
 |Lab number|Lab Description|Lab Link|
 |--|--|--|
 |     2      | Programming Java, Python, JavaScript 101                                         | https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 |
