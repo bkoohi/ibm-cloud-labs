@@ -2,17 +2,7 @@
 Hands-on LABs are easiest and fastest way to gain real experience with different cloud technologies in IBM Cloud. The purpose of these labs are to provide a step by step instructions for specific deployment use cases. Each of these labs may take up to 30 min to complete.
 
  
-<table>
-<tr>
-<th>Heading 3</th>
-</tr>
-<tr>
-<td>
-| A | B | C |
-|--|--|--|
-| 1 | 2 | 3 |
-</td></tr> </table>
-
+<h2>Basic Container eudcation and labs</h2>
 <table style="width:100%">
   <tr>
     <th>Lab number</th>
@@ -25,14 +15,14 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>https://developer.ibm.com/learningpaths/get-started-containers/</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>2/td>
+    <td>RedHat and GIT Fundamental </td>
+    <td>https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01</td>
   </tr>
 </table>
 
-|1| What is a container, why container| https://developer.ibm.com/learningpaths/get-started-containers/|
-|     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
+
+|     2      |                                                       |  |
  |--|--|--|
 |     3      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
  |--|--|--|
