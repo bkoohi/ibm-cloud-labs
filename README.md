@@ -21,7 +21,19 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 
 </td></tr> </table>
 
+<table>
+<tr>
+<th>Heading 2</th>
+</tr>
+<tr>
 
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+
+</td></table>
+
+ 
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/|    
