@@ -18,7 +18,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
  |--|--|--|
 |     4      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
  |--|--|--|
-</td></table>
+</td></tr></table>
 
 
 <table>
