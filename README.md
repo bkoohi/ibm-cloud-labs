@@ -118,3 +118,17 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>https://github.com/bkoohi/code-engine </td>
   </tr>
 </table>
+
+<h2>6- IBM Cloud Power VS lab</h2>
+<table style="width:100%">
+  <tr>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Configuring an Instance of IBM Power System Virtual Server</td>
+    <td>https://techzone.ibm.com/collection/configuring-an-instance-of-ibm-power-system-virtual-serverc</td>
+  </tr>
+</table>
