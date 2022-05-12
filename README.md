@@ -83,20 +83,29 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td> https://github.com/bkoohi/guestbook-app-iks-lab  </td>
   </tr>
    </tr>
+
+</table>
+
+<h2>5- IKS Deployment in Hub-Spoken VPC </h2>
+<table style="width:100%">
+  <tr>
+    <th>Lab number</th>
+    <th>Lab Description</th>
+    <th>Lab Link</th>
+  </tr>
     <tr>
-    <td>4</td>
+    <td>1</td>
     <td> Deploy a VPCs with an auto-scalable HTTP application in VSIs. A pair of Palo Alto VMs deployed for application security and protection. Application and Palo Alto are supported by a public ALB.  </td>
     <td> https://github.com/bkoohi/vpc-ha-pa-vsi-app  </td>
   </tr>
   <tr>
-    <td>5</td>
+    <td>2</td>
     <td> Deploy a pair of hub-spoken VPCs with an HTTP application in IKS in spoken VPC. A pair of Palo Alto VMs deployed for application security and protection in hub VPC. Application and Palo Alto are supported by a public ALB in hub-VPC.  </td>
     <td> https://github.com/bkoohi/hub-spoken-vpc-ha-pa-iks-app </td>
   </tr>
 </table>
 
-
-<h2>3- Code Engine</h2>
+<h2>6- Code Engine</h2>
 <table style="width:100%">
   <tr>
     <th>Lab number</th>
