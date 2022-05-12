@@ -19,14 +19,19 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>RedHat and GIT Fundamental </td>
     <td>https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01</td>
   </tr>
+   <tr>
+    <td>3/td>
+    <td>Docker and Container Fundamental </td>
+    <td> https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 </td>
+  </tr>
+    <tr>
+    <td>4/td>
+    <td>Kubernetes Fundamental </td>
+    <td>https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01</td>
+  </tr>
 </table>
 
 
-|     2      |                                                       |  |
- |--|--|--|
-|     3      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
- |--|--|--|
-|     4      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
 <table>
 <tr>
 <th>Programming labsc labs</th>
