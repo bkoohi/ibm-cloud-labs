@@ -12,15 +12,15 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 |--|--|--|
 |     1      | What is a container, why container                                               | https://developer.ibm.com/learningpaths/get-started-containers/| 
  |--|--|--|
+
+ |--|--|--|
+</td></tr></table>
+
 |     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
  |--|--|--|
 |     3      | Docker and Container Fundamental                                                 | https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 |
  |--|--|--|
 |     4      | Kubernetes Fundamental                                                           | https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01 |
- |--|--|--|
-</td></tr></table>
-
-
 <table>
 <tr>
 <th>Programming labsc labs</th>
