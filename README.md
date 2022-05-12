@@ -4,7 +4,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
  
 <table>
 <tr>
-<th>Basic Container training and labs</th>
+<th>Heading 1</th>
 </tr>
 <tr>
 <td>
