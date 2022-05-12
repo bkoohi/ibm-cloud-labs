@@ -23,6 +23,17 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 
 </td></tr> </table>
 
+<table>
+<tr>
+<th>Heading 1</th>
+</tr>
+<tr>c
+<td>
+| A | B | C |
+|--|--|--|
+| 1 | 2 | 3 |
+</td></tr> </table>
+
 |1| What is a container, why container| https://developer.ibm.com/learningpaths/get-started-containers/|
 |     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
  |--|--|--|
