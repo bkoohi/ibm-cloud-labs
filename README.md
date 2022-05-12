@@ -11,12 +11,12 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
  <table>
 <tr>
 <th>Heading 1</th>
-<th>Heading 2</th>
 </tr>
 <tr>
 <td>
-</td></tr></table>
 |Lab number|Lab Description|Lab Link|
+</td></tr></table>
+
 
 |1| What is a container, why container| https://developer.ibm.com/learningpaths/get-started-containers/|
 |     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
