@@ -13,6 +13,24 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 | 1 | 2 | 3 |
 </td></tr> </table>
 
+<table style="width:100%">
+  <tr>
+    <th>Lab number</th>
+    <th>Lab Description</th>
+    <th>Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>What is a container, why container/td>
+    <td>https://developer.ibm.com/learningpaths/get-started-containers/</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
+
 |1| What is a container, why container| https://developer.ibm.com/learningpaths/get-started-containers/|
 |     2      | RedHat and GIT Fundamental                                                       | https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01 |
  |--|--|--|
