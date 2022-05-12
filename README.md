@@ -43,14 +43,26 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>Programming Java, Python, JavaScript 101</td>
     <td>https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 </td>
   </tr>
- 
+</table>
 
 
+<h2>Kubernetes cluster deployment</h2>
+<table style="width:100%">
+  <tr>
+    <th>Lab number</th>
+    <th>Lab Description</th>
+    <th>Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td> Deploy a basic IKS cluster</td>
+    <td>https://github.com/bkoohi/build-iks-cluster/blob/main/README.md  </td>
+  </tr>
+</table>
 
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
 
-|     6      | Deploy a basic IKS cluster                                                       | https://github.com/bkoohi/build-iks-cluster/blob/main/README.md |
 |     7     | Deploy a simple Node JS application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/nodejs-webapp-iks-lab | 
 |     8      | Deploy a simple http application in IKS cluster in IBM Cloud                  | https://github.com/bkoohi/http-webapp-iks-lab|
 |     9     | Deploy a simple Guestbook application in IKS cluster in IBM Cloud                | https://github.com/bkoohi/guestbook-app-iks-lab|
