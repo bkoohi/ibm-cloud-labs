@@ -15,33 +15,37 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>https://developer.ibm.com/learningpaths/get-started-containers/</td>
   </tr>
   <tr>
-    <td>2/td>
+    <td>2</td>
     <td>RedHat and GIT Fundamental </td>
     <td>https://developer.ibm.com/openlabs/guide/demo/course/rhel-git-basics/01.01</td>
   </tr>
    <tr>
-    <td>3/td>
+    <td>3</td>
     <td>Docker and Container Fundamental </td>
     <td> https://developer.ibm.com/openlabs/guide/demo/course/docker/01.01 </td>
   </tr>
     <tr>
-    <td>4/td>
+    <td>4</td>
     <td>Kubernetes Fundamental </td>
     <td>https://developer.ibm.com/openlabs/guide/demo/course/kubernetes/01.01</td>
   </tr>
 </table>
 
+<h2>Programming labsc labs</h2>
+<table style="width:100%">
+  <tr>
+    <th>Lab number</th>
+    <th>Lab Description</th>
+    <th>Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Programming Java, Python, JavaScript 101</td>
+    <td>https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 </td>
+  </tr>
+ 
 
-<table>
-<tr>
-<th>Programming labsc labs</th>
-</tr>
-<tr>
-<td>
-|Lab number|Lab Description|Lab Link|
-|--|--|--|
-|     2      | Programming Java, Python, JavaScript 101                                         | https://developer.ibm.com/openlabs/guide/demo/course/learning-path/01.01 |
- </td></table>
+
 
 |  Lab number  |  Lab Description                                                               |  Lab Link |
 |--------------|--------------------------------------------------------------------------------|-------------------------------------------------|
