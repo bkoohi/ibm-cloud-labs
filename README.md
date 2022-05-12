@@ -34,9 +34,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <h2>2- Programming labsc labs</h2>
 <table style="width:100%">
   <tr>
-    <th>Lab number</th>
-    <th>Lab Description</th>
-    <th>Lab Link</th>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
   </tr>
   <tr>
     <td>1</td>
@@ -49,9 +49,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <h2>3- Kubernetes cluster deployment</h2>
 <table style="width:100%">
   <tr>
-    <th>Lab number</th>
-    <th>Lab Description</th>
-    <th>Lab Link</th>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
   </tr>
   <tr>
     <td>1</td>
@@ -63,9 +63,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <h2>4- Sample application deployment in Kubernetes</h2>
 <table style="width:100%">
   <tr>
-    <th>Lab number</th>
-    <th>Lab Description</th>
-    <th>Lab Link</th>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
   </tr>
   <tr>
     <td>1</td>
@@ -89,9 +89,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <h2>5- IKS Deployment in Hub-Spoken VPC </h2>
 <table style="width:100%">
   <tr>
-    <th>Lab number</th>
-    <th>Lab Description</th>
-    <th>Lab Link</th>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
   </tr>
     <tr>
     <td>1</td>
@@ -108,9 +108,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 <h2>6- Code Engine</h2>
 <table style="width:100%">
   <tr>
-    <th>Lab number</th>
-    <th>Lab Description</th>
-    <th>Lab Link</th>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
   </tr>
   <tr>
     <td>1</td>
