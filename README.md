@@ -136,4 +136,17 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>IBM Power Systems Virtual Server (PowerVS) Networking Fundamentals</td>
     <td>https://yourlearning.ibm.com/activity/ITS-DL06003G?planId=PLAN-0B5FDA9F39C1&sectionId=SECTION-B</td>
   </tr>
+ 
+ <h2>8- OpenShift Container Platform (OCP) lab</h2>
+<table style="width:100%">
+  <tr>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>OpenShift Container Platform (OCP) on IBM Power</td>
+    <td>https://techzone.ibm.com/collection/performing-basic-operations-via-red-hat-open-shift-running-on-ibm-power</td>
+  </tr>
 </table>
