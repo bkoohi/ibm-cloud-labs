@@ -33,6 +33,9 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
 
 <h2>2- Programming labsc labs</h2>
 <table style="width:100%">
+ 
+ 
+
   <tr>
     <th style="width:5%">Lab number</th>
     <th style="width:70%">Lab Description</th>
@@ -148,5 +151,19 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>1</td>
     <td>OpenShift Container Platform (OCP) on IBM Power</td>
     <td>https://techzone.ibm.com/collection/performing-basic-operations-via-red-hat-open-shift-running-on-ibm-power</td>
+  </tr>
+</table>
+
+ <h2>9- Red Hat Ansible lab</h2>
+<table style="width:100%">
+  <tr>
+    <th style="width:5%">Lab number</th>
+    <th style="width:70%">Lab Description</th>
+    <th style="width:25%">Lab Link</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>What is Red Hat Ansible Automation Platform Video </td>
+    <td>https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=13015015AJ344JA2&in_from_module=CLMSBROWSEV2.PRMAIN&in_offeringId=44761945</td>
   </tr>
 </table>
