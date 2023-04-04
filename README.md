@@ -166,6 +166,7 @@ Hands-on LABs are easiest and fastest way to gain real experience with different
     <td>What is Red Hat Ansible Automation Platform Video </td>
     <td>https://training-lms.redhat.com/lmt/clmsCourseDetails.prMain?in_sessionId=13015015AJ344JA2&in_from_module=CLMSBROWSEV2.PRMAIN&in_offeringId=44761945</td>
   </tr>
+ </table>
    <h2>10- PowerVS in IBM Cloud</h2>
 <table style="width:100%">
   <tr>
